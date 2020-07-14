@@ -8,8 +8,10 @@ width:100%;
 	display:inline;
  	text-align: center; 
  	padding-right: 20px;
- 	padding-left:20px;
- 	border:1px solid black; 
+ 	padding-left:20px; 
+ 	/*changing border to border-left and border bottm on suggestion*/
+ 	border-left:1px solid black;  
+ 	border-bottom: 1px solid black;
  	float:right; 
  	margin-top:0px;
  	margin-left:0px; 
